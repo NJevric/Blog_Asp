@@ -1,0 +1,43 @@
+﻿using Blog.Application.Commands;
+using Blog.Application.Commands.Categories;
+using Blog.Application.DataTransfer;
+using Blog.Domain;
+using Blog.Implementation.Validators;
+using EfDataAccess;
+using FluentValidation;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Blog.Implementation.Commands.Categories
+{
+    public class EfCreateCategoryCommand : ICreateCategoryCommand
+    {
+        private readonly BlogContext _context;
+        private readonly CreateCategoryValidator _validator;
+        public EfCreateCategoryCommand(BlogContext context, CreateCategoryValidator validator)
+        {
+            _context = context;
+            _validator = validator;
+        }
+
+        public int Id => 1;
+
+        public string Name => "Create Category Using EF";
+
+        public void Execute(CategoryDto request)
+        {
+            _validator.ValidateAndThrow(request);
+
+            var category = new Category
+            {
+                Name = request.Name
+            };
+
+            _context.Categories.Add(category);
+            _context.SaveChanges();
+
+            
+        }
+    }
+}

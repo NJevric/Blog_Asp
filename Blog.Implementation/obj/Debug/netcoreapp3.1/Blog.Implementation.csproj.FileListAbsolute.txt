@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.deps.json
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.dll
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.pdb
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\EfDataAccess.dll
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Application.pdb
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\EfDataAccess.pdb
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csproj.CopyComplete
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.dll
+C:\Users\Nikola\source\repos\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.pdb
