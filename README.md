@@ -8,7 +8,7 @@ Followed REST convention for making this API
 ## Instructions for installing localy
 1. Download project
 2. Extract project files
-3. Import database in SSMS ( i didnt' use faker so you have to do this step)
+3. Import database script.sql in SSMS ( i didnt' use faker so you have to do this step)
 4. Open project using visual studio
 5. Build project
 6. Use postman for testing my API
