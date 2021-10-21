@@ -9,10 +9,12 @@ Followed REST convention for making this API
 1. Download project
 2. Extract project files
 3. Import database script.sql in SSMS ( i didnt' use faker so you have to do this step)
-4. In EfDataAccess/BlogContext.cs set name of your database from ssms in this line of code <b>optionsBuilder.UseSqlServer(@"Data Source=.\SQLEXPRESS;Initial Catalog=name_of_wout_database_from_ssms;Integrated Security=True"); </b>
-5. Open project using visual studio
-6. Build project
-7. Use postman for testing my API
+4. In EfDataAccess/BlogContext.cs set name of your database from ssms in this line of code 
+<br/>
+<b>optionsBuilder.UseSqlServer(@"Data Source=.\SQLEXPRESS;Initial Catalog=name_of_wout_database_from_ssms;Integrated Security=True"); </b>
+6. Open project using visual studio
+7. Build project
+8. Use postman for testing my API
 
 ## Login credentials
 -Used JWT Bearer token-
