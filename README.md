@@ -25,5 +25,5 @@ Followed REST convention for making this API
 * Admin
   * username: nikola
   * password: sifra1
-## If you don't have time to follow instructions and build project localy, here's api documentation
+### If you don't have time to follow instructions and build project localy, here's my api documentation
 ![Swagger](https://github.com/NJevric/Blog_Asp/blob/main/screencapture-localhost-5001-swagger-index-html-2021-10-21-20_01_40.png)
